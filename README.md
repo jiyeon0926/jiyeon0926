@@ -53,8 +53,8 @@
   <img src="https://img.shields.io/badge/MSSQL-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </div>
 
-<!--Study-->
-<h3 align="center">📚 Study 📚</h3>
+<!--Studying-->
+<h3 align="center">📚 Studying 📚</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
