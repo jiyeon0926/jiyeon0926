@@ -29,6 +29,12 @@
 
 <br><br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon0926&layout=compact"/>
+</div>
+
+<br><br>
+
 <!--Tech Stack-->
 <h3 align="center">🌈 Tech Stack 🌈</h3>
 
@@ -85,10 +91,6 @@
 
 <br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon0926&layout=compact"/>
-</p>
-
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jiyeon0926&show_icons=true&theme=radical"/>
-</p>
+</div>
