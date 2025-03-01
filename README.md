@@ -29,13 +29,16 @@
 
 <br><br>
 
-<!--Technology Stack-->
-<h3 align="center">🌈 Technology Stack 🌈</h3>
+<!--Tech Stack-->
+<h3 align="center">🌈 Tech Stack 🌈</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spring_security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/tymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
 </div>
 
@@ -47,14 +50,24 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MSSQL-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </div>
 
 <!--Study-->
+<h3 align="center">📚 Study 📚</h3>
+
 <div align="center">
-  <h3>📚 Study 📚</h3>
+  <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/spring_security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </div>
 
 <!--Tool-->
