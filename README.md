@@ -57,6 +57,10 @@
   <img src="https://img.shields.io/badge/MSSQL-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
 <!--Studying-->
 <h3 align="center">Studying</h3>
 
