@@ -96,3 +96,9 @@
   <img src="https://img.shields.io/badge/ERDCloud-00B1D2.svg?style=for-the-badge&logo=erdcloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiyeon0926&show_icons=true&theme=radical"/>
+</div>
