@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/tymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jpa-7952B3.svg?style=for-the-badge&logo=jpa&logoColor=white"/>
 </div>
 
 <div align="center">
