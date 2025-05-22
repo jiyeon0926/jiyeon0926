@@ -93,9 +93,11 @@
 
 <!--Animals-->
 <div align="center">
-  <img
-    src="https://render.gitanimals.org/farms/jiyeon0926"
-    width="500"
-    height="300"
-  />
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jiyeon0926&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/jiyeon0926"
+      width="600"
+      height="300"
+    />
+  </a>
 </div>
