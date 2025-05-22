@@ -86,3 +86,16 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jiyeon0926&show_icons=true&theme=radical"/>
 </div>
+
+<br>
+
+---
+
+<!--Animals-->
+<div align="center">
+  <img
+    src="https://render.gitanimals.org/farms/jiyeon0926"
+    width="500"
+    height="300"
+  />
+</div>
