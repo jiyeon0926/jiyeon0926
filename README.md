@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/tymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/jpa-7952B3.svg?style=for-the-badge&logo=jpa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/queryDSL-0078C0.svg?style=for-the-badge&logo=jpa&logoColor=white"/>
 </div>
 
 <div align="center">
@@ -43,18 +44,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MSSQL-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=white"/>
 </div>
 
 <!--Studying-->
 <h3 align="center">Studying</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/spring_security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </div>
 
