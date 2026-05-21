@@ -44,7 +44,7 @@
 - Java & Spring Boot 기반 REST API 설계 및 구현
 - HTML, CSS, jQuery를 활용한 UI 구현 및 AJAX를 활용한 API 연동
 - Frontend와 Backend를 분리하지 않은 단일 애플리케이션 구조로 설계
-- `@Controller`를 활용한 HTML View 경로 반환 방식으로 화면 라우팅 구성
+- Controller에서 반환한 View 경로를 기반으로 화면 라우팅 구성
 - CRUD 기반 기능 구현
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiyeon0926/today-todo)
