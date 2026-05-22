@@ -39,17 +39,6 @@
 [![FE GitHub Repo](https://img.shields.io/badge/FE%20GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiyeon0926/mini-delivery-order-frontend)
 [![](https://img.shields.io/badge/Eat%20Now%20Post-%234FC08D.svg?style=for-the-badge&logoColor=white)](https://blog.naver.com/yeondata/224291919092)
 
-### [Full-Stack Project] 오늘의 TODO
-- TODO 기반 학습 관리 서비스
-- Java & Spring Boot 기반 REST API 설계 및 구현
-- HTML, CSS, jQuery를 활용한 UI 구현 및 AJAX를 활용한 API 연동
-- Frontend와 Backend를 분리하지 않은 단일 애플리케이션 구조로 설계
-- Controller에서 반환한 View 경로를 기반으로 화면 라우팅 구성
-- CRUD 기반 기능 구현
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiyeon0926/today-todo)
-[![](https://img.shields.io/badge/오늘의%20TODO%20Post-%234FC08D.svg?style=for-the-badge&logoColor=white)](https://blog.naver.com/yeondata/224291911916)
-
 ### [BE Project] My Travel Destination
 - 기존 Travel Shooting 프로젝트를 개선한 프로젝트
 - 사용자들이 자유롭게 작성한 여행 블로그를 한 곳에서 확인하고, 나의 다음 여행지를 발견하는 서비스
