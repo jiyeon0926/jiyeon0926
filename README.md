@@ -31,7 +31,7 @@
 ### [Full-Stack Project] Eat Now
 - 배달 주문 서비스
 - Java & Spring Boot 기반 REST API 설계 및 구현
-- Bootstrap & jQuery 기반 UI 구현 및 AJAX를 활용한 API 연동
+- Bootstrap & jQuery 기반 UI 구현 및 Ajax를 활용한 API 연동
 - 가게 생성 및 검색 기능 구현
 - 장바구니 및 주문 기능 구현
 
@@ -60,5 +60,5 @@
 [![](https://img.shields.io/badge/Travel%20Shooting%20Post-%234FC08D.svg?style=for-the-badge&logoColor=white)](https://blog.naver.com/yeondata/224284515742)
 
 ## 📝 개발 블로그
-[![](https://img.shields.io/badge/Development%20Study%20Blog-%234FC08D.svg?style=for-the-badge&logoColor=white)](https://blog.naver.com/yeondata)
-[![](https://img.shields.io/badge/Trouble%20Shooting%20Velog-%235c86fa.svg?style=for-the-badge&logoColor=white)](https://velog.io/@yeoni9094/posts)
+[![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/yeondata)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@yeoni9094/posts)
