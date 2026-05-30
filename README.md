@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JIYEON&fontAlign=80&fontAlignY=40&color=gradient)
 
-23살에 빅데이터 분야에서 인턴으로 근무할 당시, 기억에 남는 질문을 받았습니다. <br>
+2022년에 빅데이터 분야에서 인턴으로 근무할 당시, 기억에 남는 질문을 받았습니다. <br>
 <b>"어떤 개발자가 되고 싶으세요?"</b>
 
 그 당시에는 명확하게 답하지 못했습니다. <br>
