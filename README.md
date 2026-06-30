@@ -28,6 +28,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🗂️ 주요 프로젝트
+### [Full-Stack Project] PDFQuizMate
+- AI 기반 문제 생성 및 PDF 다운로드 서비스
+- Spring AI를 활용한 문제 생성 기능 구현
+- Apache PDFBox를 활용한 PDF 생성 기능 구현
+- Thymeleaf 기반 서버 사이드 렌더링(SSR) 구현
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiyeon0926/pdf-quiz-mate)
+[![](https://img.shields.io/badge/PDFQuizMate%20Post-%234FC08D.svg?style=for-the-badge&logoColor=white)](https://blog.naver.com/yeondata/224331765982)
+
 ### [Full-Stack Project] Eat Now
 - 배달 주문 서비스
 - Java & Spring Boot 기반 REST API 설계 및 구현
