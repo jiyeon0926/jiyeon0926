@@ -35,10 +35,7 @@
 - Thymeleaf 기반 서버 사이드 렌더링(SSR) 구현
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiyeon0926/pdf-quiz-mate)
-
-<!--
 [![](https://img.shields.io/badge/PDFQuizMate%20Post-%234FC08D.svg?style=for-the-badge&logoColor=white)](https://blog.naver.com/yeondata/224331765982)
--->
 
 ### [Full-Stack Project] Eat Now
 - 배달 주문 서비스
