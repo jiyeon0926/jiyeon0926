@@ -1,15 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JIYEON&fontAlign=80&fontAlignY=40&color=gradient)
 
-2022년에 빅데이터 분야에서 인턴으로 근무할 당시, 기억에 남는 질문을 받았습니다. <br>
-<b>"어떤 개발자가 되고 싶으세요?"</b>
-
-그 당시에는 명확하게 답하지 못했습니다. <br>
-경험이 부족해 어떤 개발자가 되고 싶은지 깊이 고민하지 못했고, 그 질문에 대해 오랫동안 답을 내리지 못했습니다. <br>
-
-2023년 2월부터 블로그에 학습한 내용과 문제 해결 과정을 기록하며 그 답을 찾아가기 시작했습니다. <br>
-실무와 다양한 프로젝트를 경험하면서 300건 이상의 문서가 쌓였고, 그 과정 속에서 스스로의 방향성을 찾을 수 있었습니다. <br>
-현재 저는 <b>"성능 개선과 안정성을 고민하는 개발자"</b>가 되고 싶습니다. <br>
-
 ## 🛠️ 기술 스택
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -27,7 +17,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiyeon0926)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🗂️ 주요 프로젝트
+## 🗂️ 2026 프로젝트
 ### [Full-Stack Project] PDFQuizMate
 - AI 기반 문제 생성 및 PDF 다운로드 서비스
 - Gemini 2.5 Flash 및 Spring AI를 활용한 문제 생성 기능 구현
@@ -48,6 +38,7 @@
 [![FE GitHub Repo](https://img.shields.io/badge/FE%20GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiyeon0926/mini-delivery-order-frontend)
 [![](https://img.shields.io/badge/Eat%20Now%20Post-%234FC08D.svg?style=for-the-badge&logoColor=white)](https://blog.naver.com/yeondata/224291919092)
 
+## 🗂️ 2025 프로젝트
 ### [BE Project] My Travel Destination
 - 기존 Travel Shooting 프로젝트를 개선한 프로젝트
 - 사용자들이 자유롭게 작성한 여행 블로그를 한 곳에서 확인하고, 나의 다음 여행지를 발견하는 서비스
